@@ -1,0 +1,12 @@
+# Runtime dependencies
+flask==3.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+ebooklib==0.18
+deep-translator==1.11.4
+pillow
+gunicorn==21.2.0
+
+# Test dependencies
+hypothesis==6.92.1
+pytest==7.4.3
